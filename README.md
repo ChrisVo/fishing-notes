@@ -22,7 +22,7 @@
 5. **Lobster Gauge** (required to measure lobster size, avoid tickets).
 6. **Pen** (for lobster card entries).
 7. **Dry Bag**
-8. **Sabiki Rod**
+8. **Sabiki Rod** (optional)
 9. **Motion Medicine**
 10. **Headlamps** (ensure backup batteries).
 11. **Mechanical Light Sticks**
@@ -31,7 +31,7 @@
     - Also, get a breaking light stick.
 12. **Buoy**
     - Ensure it's floating correctly.
-13. **Lead Master Egg Sinker** (glow in the dark).
+13. **Lead Master Egg Sinker** (glow in the dark). (optional)
 14. **Pliers**
 15. **Waterproof Clothing**
     - Deck boots
